@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elly-80
-- 👀 I’m interested in Java entry level job
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on start-up project
+- 👀 I’m interested in a Frontend entry-level job
+- 🌱 I’m currently learning Frontend Development @ Univelcity
+- 💞️ I’m looking to collaborate on a start-up project
 - 📫 How to reach me:
 via email: elijah@aligence.io
 via whatsapp:+2348131901474
