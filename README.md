@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @elly-80
-- 👀 I’m interested in a Frontend entry-level job
-- 🌱 I’m currently learning Frontend Development @Univelcity
+- 👀 I’m interested in the Data Analysis role
+- 🌱 I’m currently learning the IBM Data Analytics course on Coursera
 - 💞️ I’m looking to collaborate on a start-up project
 - 📫 How to reach me:
 via email: elijah@aligence.io
-via whatsapp:+2348131901474 / +23409132023609
-via call: +23409132023609
-via Signal: +2348130747802
+via whatsapp:35679647207/+2348131901474
+via call: +35679647207
 via Twitter: https://twitter.com/elly4success
 via LinkedIn:https://www.linkedin.com/in/kalejaiye-elijah/
 <!---
